@@ -3,6 +3,6 @@
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/Brrahim">
     <img src="https://icons8.ru/icon/oWiuH0jFiU0R/телеграмма-app" alt="Telegram"/>
 </div>
