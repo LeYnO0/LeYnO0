@@ -4,5 +4,5 @@
 
 <div id="badges">
   <a href="https://t.me/Brrahim">
-    <img src="https://icons8.ru/icon/oWiuH0jFiU0R/телеграмма-app" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram"/>
 </div>
