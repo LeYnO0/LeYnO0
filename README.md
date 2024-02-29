@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpia2t5Z3dmaDk0bGE0ZXFwZ2N6ZGgzdzJ5bGwxMmo2MGFvYjNoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" widht="700" height="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpia2t5Z3dmaDk0bGE0ZXFwZ2N6ZGgzdzJ5bGwxMmo2MGFvYjNoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" widht="500" height="150">
 </div>
 <div>
   <h3><i> 🛠 Languages and tools:</i></h3>
@@ -34,5 +34,5 @@
 
 
 <div>
-  [![codewars](https://www.codewars.com/users/LeYnO0/badges/large)](https://www.codewars.com/users/LeYnO0)
+[![codewars](https://www.codewars.com/users/LeYnO0/badges/large)](https://www.codewars.com/users/LeYnO0)   
 </div>
