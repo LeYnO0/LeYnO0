@@ -21,5 +21,5 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  title="Linux" widht="30" height="30" /&nbsp>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="Nginx" widht="30" height="30" /&nbsp>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" widht="30" height="30" /&nbsp>
-          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" widht="30" height="30" /&nbsp>
 </div>
