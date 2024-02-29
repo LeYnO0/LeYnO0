@@ -33,6 +33,4 @@
 </div>
 
 
-<div>
 [![codewars](https://www.codewars.com/users/LeYnO0/badges/large)](https://www.codewars.com/users/LeYnO0)   
-</div>
