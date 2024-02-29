@@ -1,8 +1,8 @@
 <div id="header" align="left">
   <div id="badges">
   <a href="https://t.me/Brrahim">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram"/>
-<img src="https://komarev.com/ghpvc/?username=LeYnO0&style=flat-square&color=blue" alt=""/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue" widht="40" height="20" alt="Telegram"/>
+<img src="https://komarev.com/ghpvc/?username=LeYnO0&style=flat-square&color=blue" widht="40" height="20">
   </div>
     <div align="center">
       <h1>Привет! Меня зовут Артем.
